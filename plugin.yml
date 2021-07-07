@@ -1,0 +1,4 @@
+name: PrestigeNostCraft
+version: 0.0.1
+main: blankminecraft\PrestigeNostCraft\Main
+api: 3.21.1
